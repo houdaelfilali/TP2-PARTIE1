@@ -1,0 +1,5 @@
+TP2 - Partie 1 - Exercice 2 - MNIST
+==================================================
+Precision finale sur le jeu de test : 0.9917
+Perte finale sur le jeu de test      : 0.0256
+Nombre d'images mal classees : 83 / 10000
