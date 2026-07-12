@@ -1,0 +1,5 @@
+TP2 - Partie 1 - Exercice 1 - Fashion-MNIST
+==================================================
+Precision (accuracy) sur le jeu de test : 0.9284
+Perte (loss) sur le jeu de test          : 0.2843
+Classes les plus confondues : 'T-shirt/Top' et 'Shirt' (80 erreurs)
